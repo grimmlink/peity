@@ -1,0 +1,12 @@
+{
+    "name": "grimmlink/peity",
+    "description": "Shim repository for https://github.com/benpickles/peity",
+    "keywords": [
+      "jquery-plugin",
+      "chart",
+      "graph",
+      "sparkline",
+      "svg"
+    ],
+    "license": "MIT"
+}
